@@ -1,6 +1,6 @@
 [
   {
-    "name": "Pranav Iyer (Demo)",
+    "name": "Pranav Iyer",
     "age": 20,
     "location": "Hyderabad",
     "gender": "male",
@@ -23,7 +23,7 @@
     "email": "roommate-demo-001@example.test"
   },
   {
-    "name": "Vivaan Khan (Demo)",
+    "name": "Vivaan Khan",
     "age": 26,
     "location": "Hyderabad",
     "gender": "male",
@@ -46,7 +46,7 @@
     "email": "roommate-demo-002@example.test"
   },
   {
-    "name": "Sanya Khan (Demo)",
+    "name": "Sanya Khan",
     "age": 18,
     "location": "Hyderabad",
     "gender": "female",
@@ -69,7 +69,7 @@
     "email": "roommate-demo-003@example.test"
   },
   {
-    "name": "Neha Gupta (Demo)",
+    "name": "Neha Gupta",
     "age": 22,
     "location": "Hyderabad",
     "gender": "female",
@@ -92,7 +92,7 @@
     "email": "roommate-demo-004@example.test"
   },
   {
-    "name": "Pranav Patel (Demo)",
+    "name": "Pranav Patel",
     "age": 24,
     "location": "Hyderabad",
     "gender": "male",
@@ -115,7 +115,7 @@
     "email": "roommate-demo-005@example.test"
   },
   {
-    "name": "Aditya Rao (Demo)",
+    "name": "Aditya Rao",
     "age": 22,
     "location": "Hyderabad",
     "gender": "male",
@@ -138,7 +138,7 @@
     "email": "roommate-demo-006@example.test"
   },
   {
-    "name": "Isha Naidu (Demo)",
+    "name": "Isha Naidu",
     "age": 26,
     "location": "Hyderabad",
     "gender": "female",
@@ -161,7 +161,7 @@
     "email": "roommate-demo-007@example.test"
   },
   {
-    "name": "Ananya Reddy (Demo)",
+    "name": "Ananya Reddy",
     "age": 22,
     "location": "Hyderabad",
     "gender": "female",
@@ -184,7 +184,7 @@
     "email": "roommate-demo-008@example.test"
   },
   {
-    "name": "Neha Naidu (Demo)",
+    "name": "Neha Naidu",
     "age": 21,
     "location": "Chennai",
     "gender": "female",
@@ -207,7 +207,7 @@
     "email": "roommate-demo-009@example.test"
   },
   {
-    "name": "Harsh Gupta (Demo)",
+    "name": "Harsh Gupta",
     "age": 19,
     "location": "Pune",
     "gender": "male",
@@ -230,7 +230,7 @@
     "email": "roommate-demo-010@example.test"
   },
   {
-    "name": "Diya Rao (Demo)",
+    "name": "Diya Rao",
     "age": 26,
     "location": "Bengaluru",
     "gender": "female",
@@ -253,7 +253,7 @@
     "email": "roommate-demo-011@example.test"
   },
   {
-    "name": "Aditya Khan (Demo)",
+    "name": "Aditya Khan",
     "age": 25,
     "location": "Hyderabad",
     "gender": "male",
@@ -276,7 +276,7 @@
     "email": "roommate-demo-012@example.test"
   },
   {
-    "name": "Manish Patel (Demo)",
+    "name": "Manish Patel",
     "age": 24,
     "location": "Bengaluru",
     "gender": "male",
@@ -299,7 +299,7 @@
     "email": "roommate-demo-013@example.test"
   },
   {
-    "name": "Kavya Rao (Demo)",
+    "name": "Kavya Rao",
     "age": 22,
     "location": "Pune",
     "gender": "female",
@@ -322,7 +322,7 @@
     "email": "roommate-demo-014@example.test"
   },
   {
-    "name": "Siddharth Sharma (Demo)",
+    "name": "Siddharth Sharma",
     "age": 19,
     "location": "Hyderabad",
     "gender": "male",
@@ -345,7 +345,7 @@
     "email": "roommate-demo-015@example.test"
   },
   {
-    "name": "Karthik Reddy (Demo)",
+    "name": "Karthik Reddy",
     "age": 23,
     "location": "Hyderabad",
     "gender": "male",
@@ -368,7 +368,7 @@
     "email": "roommate-demo-016@example.test"
   },
   {
-    "name": "Riya Khan (Demo)",
+    "name": "Riya Khan",
     "age": 19,
     "location": "Hyderabad",
     "gender": "female",
@@ -391,7 +391,7 @@
     "email": "roommate-demo-017@example.test"
   },
   {
-    "name": "Isha Reddy (Demo)",
+    "name": "Isha Reddy",
     "age": 26,
     "location": "Chennai",
     "gender": "female",
@@ -414,7 +414,7 @@
     "email": "roommate-demo-018@example.test"
   },
   {
-    "name": "Varun Iyer (Demo)",
+    "name": "Varun Iyer",
     "age": 24,
     "location": "Hyderabad",
     "gender": "male",
@@ -437,7 +437,7 @@
     "email": "roommate-demo-019@example.test"
   },
   {
-    "name": "Siddharth Rao (Demo)",
+    "name": "Siddharth Rao",
     "age": 24,
     "location": "Hyderabad",
     "gender": "male",
@@ -460,7 +460,7 @@
     "email": "roommate-demo-020@example.test"
   },
   {
-    "name": "Priya Kumar (Demo)",
+    "name": "Priya Kumar",
     "age": 24,
     "location": "Pune",
     "gender": "female",
@@ -483,7 +483,7 @@
     "email": "roommate-demo-021@example.test"
   },
   {
-    "name": "Nikhil Naidu (Demo)",
+    "name": "Nikhil Naidu",
     "age": 24,
     "location": "Pune",
     "gender": "male",
@@ -506,7 +506,7 @@
     "email": "roommate-demo-022@example.test"
   },
   {
-    "name": "Arjun Rao (Demo)",
+    "name": "Arjun Rao",
     "age": 23,
     "location": "Hyderabad",
     "gender": "male",
@@ -529,7 +529,7 @@
     "email": "roommate-demo-023@example.test"
   },
   {
-    "name": "Karthik Khan (Demo)",
+    "name": "Karthik Khan",
     "age": 25,
     "location": "Pune",
     "gender": "male",
@@ -552,7 +552,7 @@
     "email": "roommate-demo-024@example.test"
   },
   {
-    "name": "Kavya Nair (Demo)",
+    "name": "Kavya Nair",
     "age": 24,
     "location": "Hyderabad",
     "gender": "female",
@@ -575,7 +575,7 @@
     "email": "roommate-demo-025@example.test"
   },
   {
-    "name": "Riya Naidu (Demo)",
+    "name": "Riya Naidu",
     "age": 24,
     "location": "Bengaluru",
     "gender": "female",
@@ -598,7 +598,7 @@
     "email": "roommate-demo-026@example.test"
   },
   {
-    "name": "Shreya Menon (Demo)",
+    "name": "Shreya Menon",
     "age": 18,
     "location": "Hyderabad",
     "gender": "female",
@@ -621,7 +621,7 @@
     "email": "roommate-demo-027@example.test"
   },
   {
-    "name": "Isha Menon (Demo)",
+    "name": "Isha Menon",
     "age": 23,
     "location": "Hyderabad",
     "gender": "female",
@@ -644,7 +644,7 @@
     "email": "roommate-demo-028@example.test"
   },
   {
-    "name": "Sneha Menon (Demo)",
+    "name": "Sneha Menon",
     "age": 18,
     "location": "Hyderabad",
     "gender": "female",
@@ -667,7 +667,7 @@
     "email": "roommate-demo-029@example.test"
   },
   {
-    "name": "Manish Singh (Demo)",
+    "name": "Manish Singh",
     "age": 23,
     "location": "Hyderabad",
     "gender": "male",
@@ -690,7 +690,7 @@
     "email": "roommate-demo-030@example.test"
   },
   {
-    "name": "Varun Singh (Demo)",
+    "name": "Varun Singh",
     "age": 21,
     "location": "Hyderabad",
     "gender": "male",
@@ -713,7 +713,7 @@
     "email": "roommate-demo-031@example.test"
   },
   {
-    "name": "Shreya Singh (Demo)",
+    "name": "Shreya Singh",
     "age": 23,
     "location": "Bengaluru",
     "gender": "female",
@@ -736,7 +736,7 @@
     "email": "roommate-demo-032@example.test"
   },
   {
-    "name": "Diya Verma (Demo)",
+    "name": "Diya Verma",
     "age": 19,
     "location": "Bengaluru",
     "gender": "female",
@@ -759,7 +759,7 @@
     "email": "roommate-demo-033@example.test"
   },
   {
-    "name": "Diya Menon (Demo)",
+    "name": "Diya Menon",
     "age": 23,
     "location": "Hyderabad",
     "gender": "female",
@@ -782,7 +782,7 @@
     "email": "roommate-demo-034@example.test"
   },
   {
-    "name": "Pooja Patel (Demo)",
+    "name": "Pooja Patel",
     "age": 24,
     "location": "Chennai",
     "gender": "female",
@@ -805,7 +805,7 @@
     "email": "roommate-demo-035@example.test"
   },
   {
-    "name": "Rahul Gupta (Demo)",
+    "name": "Rahul Gupta",
     "age": 18,
     "location": "Hyderabad",
     "gender": "male",
@@ -828,7 +828,7 @@
     "email": "roommate-demo-036@example.test"
   },
   {
-    "name": "Sanya Joshi (Demo)",
+    "name": "Sanya Joshi",
     "age": 19,
     "location": "Hyderabad",
     "gender": "female",
@@ -851,7 +851,7 @@
     "email": "roommate-demo-037@example.test"
   },
   {
-    "name": "Varun Menon (Demo)",
+    "name": "Varun Menon",
     "age": 20,
     "location": "Pune",
     "gender": "male",
@@ -874,7 +874,7 @@
     "email": "roommate-demo-038@example.test"
   },
   {
-    "name": "Ishaan Rao (Demo)",
+    "name": "Ishaan Rao",
     "age": 26,
     "location": "Hyderabad",
     "gender": "male",
@@ -897,7 +897,7 @@
     "email": "roommate-demo-039@example.test"
   },
   {
-    "name": "Harsh Singh (Demo)",
+    "name": "Harsh Singh",
     "age": 24,
     "location": "Bengaluru",
     "gender": "male",
@@ -920,7 +920,7 @@
     "email": "roommate-demo-040@example.test"
   },
   {
-    "name": "Riya Iyer (Demo)",
+    "name": "Riya Iyer",
     "age": 25,
     "location": "Hyderabad",
     "gender": "female",
@@ -943,7 +943,7 @@
     "email": "roommate-demo-041@example.test"
   },
   {
-    "name": "Shreya Das (Demo)",
+    "name": "Shreya Das",
     "age": 19,
     "location": "Hyderabad",
     "gender": "female",
@@ -966,7 +966,7 @@
     "email": "roommate-demo-042@example.test"
   },
   {
-    "name": "Manish Kumar (Demo)",
+    "name": "Manish Kumar",
     "age": 22,
     "location": "Hyderabad",
     "gender": "male",
@@ -989,7 +989,7 @@
     "email": "roommate-demo-043@example.test"
   },
   {
-    "name": "Sanya Singh (Demo)",
+    "name": "Sanya Singh",
     "age": 20,
     "location": "Bengaluru",
     "gender": "female",
@@ -1012,7 +1012,7 @@
     "email": "roommate-demo-044@example.test"
   },
   {
-    "name": "Rohan Verma (Demo)",
+    "name": "Rohan Verma",
     "age": 25,
     "location": "Hyderabad",
     "gender": "male",
@@ -1035,7 +1035,7 @@
     "email": "roommate-demo-045@example.test"
   },
   {
-    "name": "Vivaan Khan (Demo)",
+    "name": "Vivaan Khan",
     "age": 21,
     "location": "Hyderabad",
     "gender": "male",
@@ -1058,7 +1058,7 @@
     "email": "roommate-demo-046@example.test"
   },
   {
-    "name": "Shreya Singh (Demo)",
+    "name": "Shreya Singh",
     "age": 22,
     "location": "Chennai",
     "gender": "female",
@@ -1081,7 +1081,7 @@
     "email": "roommate-demo-047@example.test"
   },
   {
-    "name": "Rohan Iyer (Demo)",
+    "name": "Rohan Iyer",
     "age": 21,
     "location": "Hyderabad",
     "gender": "male",
@@ -1104,7 +1104,7 @@
     "email": "roommate-demo-048@example.test"
   },
   {
-    "name": "Ishaan Rao (Demo)",
+    "name": "Ishaan Rao",
     "age": 24,
     "location": "Hyderabad",
     "gender": "male",
@@ -1127,7 +1127,7 @@
     "email": "roommate-demo-049@example.test"
   },
   {
-    "name": "Harsh Reddy (Demo)",
+    "name": "Harsh Reddy",
     "age": 22,
     "location": "Hyderabad",
     "gender": "male",
@@ -1150,7 +1150,7 @@
     "email": "roommate-demo-050@example.test"
   },
   {
-    "name": "Sneha Naidu (Demo)",
+    "name": "Sneha Naidu",
     "age": 22,
     "location": "Pune",
     "gender": "female",
@@ -1173,7 +1173,7 @@
     "email": "roommate-demo-051@example.test"
   },
   {
-    "name": "Diya Rao (Demo)",
+    "name": "Diya Rao",
     "age": 18,
     "location": "Hyderabad",
     "gender": "female",
@@ -1196,7 +1196,7 @@
     "email": "roommate-demo-052@example.test"
   },
   {
-    "name": "Rahul Nair (Demo)",
+    "name": "Rahul Nair",
     "age": 24,
     "location": "Bengaluru",
     "gender": "male",
@@ -1219,7 +1219,7 @@
     "email": "roommate-demo-053@example.test"
   },
   {
-    "name": "Arjun Patel (Demo)",
+    "name": "Arjun Patel",
     "age": 23,
     "location": "Hyderabad",
     "gender": "male",
@@ -1242,7 +1242,7 @@
     "email": "roommate-demo-054@example.test"
   },
   {
-    "name": "Rahul Verma (Demo)",
+    "name": "Rahul Verma",
     "age": 22,
     "location": "Hyderabad",
     "gender": "male",
@@ -1265,7 +1265,7 @@
     "email": "roommate-demo-055@example.test"
   },
   {
-    "name": "Kavya Gupta (Demo)",
+    "name": "Kavya Gupta",
     "age": 26,
     "location": "Pune",
     "gender": "female",
@@ -1288,7 +1288,7 @@
     "email": "roommate-demo-056@example.test"
   },
   {
-    "name": "Tarun Verma (Demo)",
+    "name": "Tarun Verma",
     "age": 23,
     "location": "Chennai",
     "gender": "male",
@@ -1311,7 +1311,7 @@
     "email": "roommate-demo-057@example.test"
   },
   {
-    "name": "Vikram Menon (Demo)",
+    "name": "Vikram Menon",
     "age": 20,
     "location": "Bengaluru",
     "gender": "male",
@@ -1334,7 +1334,7 @@
     "email": "roommate-demo-058@example.test"
   },
   {
-    "name": "Nikhil Khan (Demo)",
+    "name": "Nikhil Khan",
     "age": 22,
     "location": "Bengaluru",
     "gender": "male",
@@ -1357,7 +1357,7 @@
     "email": "roommate-demo-059@example.test"
   },
   {
-    "name": "Riya Das (Demo)",
+    "name": "Riya Das",
     "age": 24,
     "location": "Hyderabad",
     "gender": "female",
@@ -1380,7 +1380,7 @@
     "email": "roommate-demo-060@example.test"
   },
   {
-    "name": "Sneha Iyer (Demo)",
+    "name": "Sneha Iyer",
     "age": 20,
     "location": "Hyderabad",
     "gender": "female",
@@ -1403,7 +1403,7 @@
     "email": "roommate-demo-061@example.test"
   },
   {
-    "name": "Lakshmi Iyer (Demo)",
+    "name": "Lakshmi Iyer",
     "age": 25,
     "location": "Hyderabad",
     "gender": "female",
@@ -1426,7 +1426,7 @@
     "email": "roommate-demo-062@example.test"
   },
   {
-    "name": "Rohan Naidu (Demo)",
+    "name": "Rohan Naidu",
     "age": 18,
     "location": "Hyderabad",
     "gender": "male",
@@ -1449,7 +1449,7 @@
     "email": "roommate-demo-063@example.test"
   },
   {
-    "name": "Shreya Joshi (Demo)",
+    "name": "Shreya Joshi",
     "age": 22,
     "location": "Hyderabad",
     "gender": "female",
@@ -1472,7 +1472,7 @@
     "email": "roommate-demo-064@example.test"
   },
   {
-    "name": "Kavya Gupta (Demo)",
+    "name": "Kavya Gupta",
     "age": 26,
     "location": "Hyderabad",
     "gender": "male",
@@ -1495,7 +1495,7 @@
     "email": "roommate-demo-065@example.test"
   },
   {
-    "name": "Rahul Das (Demo)",
+    "name": "Rahul Das",
     "age": 26,
     "location": "Hyderabad",
     "gender": "male",
@@ -1518,7 +1518,7 @@
     "email": "roommate-demo-066@example.test"
   },
   {
-    "name": "Aditya Patel (Demo)",
+    "name": "Aditya Patel",
     "age": 18,
     "location": "Hyderabad",
     "gender": "female",
@@ -1541,7 +1541,7 @@
     "email": "roommate-demo-067@example.test"
   },
   {
-    "name": "Pranav Joshi (Demo)",
+    "name": "Pranav Joshi",
     "age": 22,
     "location": "Hyderabad",
     "gender": "female",
@@ -1564,7 +1564,7 @@
     "email": "roommate-demo-068@example.test"
   },
   {
-    "name": "Ishaan Verma (Demo)",
+    "name": "Ishaan Verma",
     "age": 20,
     "location": "Hyderabad",
     "gender": "nonbinary",
@@ -1587,7 +1587,7 @@
     "email": "roommate-demo-069@example.test"
   },
   {
-    "name": "Riya Iyer (Demo)",
+    "name": "Riya Iyer",
     "age": 19,
     "location": "Hyderabad",
     "gender": "nonbinary",
@@ -1610,7 +1610,7 @@
     "email": "roommate-demo-070@example.test"
   },
   {
-    "name": "Kavya Joshi (Demo)",
+    "name": "Kavya Joshi",
     "age": 26,
     "location": "Bengaluru",
     "gender": "male",
@@ -1633,7 +1633,7 @@
     "email": "roommate-demo-071@example.test"
   },
   {
-    "name": "Aditya Das (Demo)",
+    "name": "Aditya Das",
     "age": 23,
     "location": "Bengaluru",
     "gender": "male",
@@ -1656,7 +1656,7 @@
     "email": "roommate-demo-072@example.test"
   },
   {
-    "name": "Meera Kumar (Demo)",
+    "name": "Meera Kumar",
     "age": 21,
     "location": "Bengaluru",
     "gender": "female",
@@ -1679,7 +1679,7 @@
     "email": "roommate-demo-073@example.test"
   },
   {
-    "name": "Priya Khan (Demo)",
+    "name": "Priya Khan",
     "age": 18,
     "location": "Bengaluru",
     "gender": "female",
@@ -1702,7 +1702,7 @@
     "email": "roommate-demo-074@example.test"
   },
   {
-    "name": "Sneha Gupta (Demo)",
+    "name": "Sneha Gupta",
     "age": 20,
     "location": "Bengaluru",
     "gender": "nonbinary",
@@ -1725,7 +1725,7 @@
     "email": "roommate-demo-075@example.test"
   },
   {
-    "name": "Ananya Nair (Demo)",
+    "name": "Ananya Nair",
     "age": 18,
     "location": "Bengaluru",
     "gender": "nonbinary",
@@ -1748,7 +1748,7 @@
     "email": "roommate-demo-076@example.test"
   },
   {
-    "name": "Tanvi Reddy (Demo)",
+    "name": "Tanvi Reddy",
     "age": 26,
     "location": "Chennai",
     "gender": "male",
@@ -1771,7 +1771,7 @@
     "email": "roommate-demo-077@example.test"
   },
   {
-    "name": "Aditya Kumar (Demo)",
+    "name": "Aditya Kumar",
     "age": 22,
     "location": "Chennai",
     "gender": "male",
@@ -1794,7 +1794,7 @@
     "email": "roommate-demo-078@example.test"
   },
   {
-    "name": "Lakshmi Reddy (Demo)",
+    "name": "Lakshmi Reddy",
     "age": 25,
     "location": "Chennai",
     "gender": "female",
@@ -1817,7 +1817,7 @@
     "email": "roommate-demo-079@example.test"
   },
   {
-    "name": "Ishaan Kumar (Demo)",
+    "name": "Ishaan Kumar",
     "age": 18,
     "location": "Chennai",
     "gender": "female",
@@ -1840,7 +1840,7 @@
     "email": "roommate-demo-080@example.test"
   },
   {
-    "name": "Sneha Verma (Demo)",
+    "name": "Sneha Verma",
     "age": 20,
     "location": "Chennai",
     "gender": "nonbinary",
@@ -1863,7 +1863,7 @@
     "email": "roommate-demo-081@example.test"
   },
   {
-    "name": "Sanya Gupta (Demo)",
+    "name": "Sanya Gupta",
     "age": 23,
     "location": "Chennai",
     "gender": "nonbinary",
@@ -1886,7 +1886,7 @@
     "email": "roommate-demo-082@example.test"
   },
   {
-    "name": "Vivaan Nair (Demo)",
+    "name": "Vivaan Nair",
     "age": 19,
     "location": "Pune",
     "gender": "male",
@@ -1909,7 +1909,7 @@
     "email": "roommate-demo-083@example.test"
   },
   {
-    "name": "Karthik Singh (Demo)",
+    "name": "Karthik Singh",
     "age": 19,
     "location": "Pune",
     "gender": "male",
@@ -1932,7 +1932,7 @@
     "email": "roommate-demo-084@example.test"
   },
   {
-    "name": "Priya Reddy (Demo)",
+    "name": "Priya Reddy",
     "age": 25,
     "location": "Pune",
     "gender": "female",
@@ -1955,7 +1955,7 @@
     "email": "roommate-demo-085@example.test"
   },
   {
-    "name": "Aditya Patel (Demo)",
+    "name": "Aditya Patel",
     "age": 18,
     "location": "Pune",
     "gender": "female",
@@ -1978,7 +1978,7 @@
     "email": "roommate-demo-086@example.test"
   },
   {
-    "name": "Harsh Reddy (Demo)",
+    "name": "Harsh Reddy",
     "age": 19,
     "location": "Pune",
     "gender": "nonbinary",
@@ -2001,7 +2001,7 @@
     "email": "roommate-demo-087@example.test"
   },
   {
-    "name": "Lakshmi Das (Demo)",
+    "name": "Lakshmi Das",
     "age": 19,
     "location": "Pune",
     "gender": "nonbinary",
@@ -2024,7 +2024,7 @@
     "email": "roommate-demo-088@example.test"
   },
   {
-    "name": "Arjun Naidu (Demo)",
+    "name": "Arjun Naidu",
     "age": 20,
     "location": "Mumbai",
     "gender": "male",
@@ -2047,7 +2047,7 @@
     "email": "roommate-demo-089@example.test"
   },
   {
-    "name": "Lakshmi Sharma (Demo)",
+    "name": "Lakshmi Sharma",
     "age": 21,
     "location": "Mumbai",
     "gender": "male",
@@ -2070,7 +2070,7 @@
     "email": "roommate-demo-090@example.test"
   },
   {
-    "name": "Neha Khan (Demo)",
+    "name": "Neha Khan",
     "age": 18,
     "location": "Mumbai",
     "gender": "female",
@@ -2093,7 +2093,7 @@
     "email": "roommate-demo-091@example.test"
   },
   {
-    "name": "Kavya Patel (Demo)",
+    "name": "Kavya Patel",
     "age": 23,
     "location": "Mumbai",
     "gender": "female",
@@ -2116,7 +2116,7 @@
     "email": "roommate-demo-092@example.test"
   },
   {
-    "name": "Shreya Joshi (Demo)",
+    "name": "Shreya Joshi",
     "age": 21,
     "location": "Mumbai",
     "gender": "nonbinary",
@@ -2139,7 +2139,7 @@
     "email": "roommate-demo-093@example.test"
   },
   {
-    "name": "Ananya Nair (Demo)",
+    "name": "Ananya Nair",
     "age": 18,
     "location": "Mumbai",
     "gender": "nonbinary",
@@ -2162,7 +2162,7 @@
     "email": "roommate-demo-094@example.test"
   },
   {
-    "name": "Lakshmi Iyer (Demo)",
+    "name": "Lakshmi Iyer",
     "age": 23,
     "location": "Delhi",
     "gender": "male",
@@ -2185,7 +2185,7 @@
     "email": "roommate-demo-095@example.test"
   },
   {
-    "name": "Pooja Khan (Demo)",
+    "name": "Pooja Khan",
     "age": 23,
     "location": "Delhi",
     "gender": "male",
@@ -2208,7 +2208,7 @@
     "email": "roommate-demo-096@example.test"
   },
   {
-    "name": "Ananya Nair (Demo)",
+    "name": "Ananya Nair",
     "age": 19,
     "location": "Delhi",
     "gender": "female",
@@ -2231,7 +2231,7 @@
     "email": "roommate-demo-097@example.test"
   },
   {
-    "name": "Rohan Reddy (Demo)",
+    "name": "Rohan Reddy",
     "age": 22,
     "location": "Delhi",
     "gender": "female",
@@ -2254,7 +2254,7 @@
     "email": "roommate-demo-098@example.test"
   },
   {
-    "name": "Sanya Reddy (Demo)",
+    "name": "Sanya Reddy",
     "age": 24,
     "location": "Delhi",
     "gender": "nonbinary",
@@ -2277,7 +2277,7 @@
     "email": "roommate-demo-099@example.test"
   },
   {
-    "name": "Priya Das (Demo)",
+    "name": "Priya Das",
     "age": 23,
     "location": "Delhi",
     "gender": "nonbinary",

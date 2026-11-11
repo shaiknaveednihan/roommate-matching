@@ -23,7 +23,9 @@ export async function seedDemoUsers(client) {
        alcohol text, noise text, guests text, food text, room_type text,
        conflict text, hobbies text
      )
-     ON CONFLICT (email) DO NOTHING`,
+     ON CONFLICT (email) DO UPDATE SET name = EXCLUDED.name
+     WHERE users.bio = EXCLUDED.bio
+       AND users.name = EXCLUDED.name || ' (Demo)'`,
     [JSON.stringify(profiles), `${salt}:${hash}`]
   );
   return rowCount;
