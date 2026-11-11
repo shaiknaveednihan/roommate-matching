@@ -1,5 +1,6 @@
 import { readFile } from "node:fs/promises";
 import { Client } from "pg";
+import { seedDemoUsers } from "./seed-demo.mjs";
 
 const connectionString = process.env.DATABASE_URL_UNPOOLED ?? process.env.DATABASE_URL;
 if (!connectionString) throw new Error("Set DATABASE_URL to your Postgres connection string.");
@@ -11,7 +12,9 @@ try {
   await client.query("BEGIN");
   await client.query("SELECT pg_advisory_xact_lock(197303, 1)");
   await client.query(sql);
+  const demoUsersAdded = await seedDemoUsers(client);
   await client.query("COMMIT");
+  console.log(`Added ${demoUsersAdded} RoomMate demo profiles.`);
   console.log("RoomMate database schema is ready.");
 } catch (error) {
   await client.query("ROLLBACK");
